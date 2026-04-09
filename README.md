@@ -153,7 +153,7 @@ This project is licensed under the MIT License.
 
 ## 👨‍💻 Author
 
-Debashish Mishra
+Ayush Kumar
 CSE (2nd Year), Rungta College
 Kalam Batch
 Interested in AI, Machine Learning, and IoT
